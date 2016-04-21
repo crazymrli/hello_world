@@ -1,0 +1,9 @@
+import java.util.ArrayList;
+
+
+public class TestJava {
+	public static void main(String args[]){
+		byte b = (byte)0x253;
+		System.out.println(Integer.toHexString(b));
+	}
+}
